@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO: prefix each <loc> with the site URL once the domain is set. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/servicos</loc></url>
+  <url><loc>/servicos/pintura-de-apartamento</loc></url>
+  <url><loc>/servicos/pintura-residencial</loc></url>
+  <url><loc>/servicos/pintura-mecanizada-airless</loc></url>
+  <url><loc>/servicos/pintura-comercial</loc></url>
+  <url><loc>/servicos/textura-e-grafiato</loc></url>
+  <url><loc>/servicos/pintura-de-condominio</loc></url>
+  <url><loc>/regioes</loc></url>
+  <url><loc>/pintura-em/zona-sul</loc></url>
+  <url><loc>/pintura-em/zona-oeste</loc></url>
+  <url><loc>/pintura-em/zona-norte</loc></url>
+  <url><loc>/pintura-em/zona-leste</loc></url>
+  <url><loc>/pintura-em/centro</loc></url>
+  <url><loc>/pintura-em/abc-paulista</loc></url>
+  <url><loc>/sobre</loc></url>
+  <url><loc>/contato</loc></url>
+</urlset>
